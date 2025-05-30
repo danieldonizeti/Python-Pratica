@@ -1,2 +1,4 @@
 # Python-Pratica
-Repositório para armazenar meus estudos e pratica de Python.
+
+Repositório criado para armazenar meus exercícios e práticas de Python.    
+Objetivo: consolidar o básico e preparar para projetos reais.
